@@ -1,0 +1,38 @@
+body{
+  background-color: aquamarine;
+  color: rgb(50, 137, 214);
+
+}
+
+.div-border{
+  height: 30rem;
+  width: 20rem;
+  border: 3px solid black;
+  padding: 4rem;
+  align-items: center;
+  text-align: center;
+  border-radius: 15px;
+}
+
+button{
+  height: 3rem;
+  width: 7rem;
+  text-align: center;
+}
+
+input,textarea{
+  padding: 12px;
+  font-size: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+textarea {
+  min-height: 90px;
+}
+
+button:hover {
+  background-color: #91b3d2;
+  border-radius: 15px;
+  
+}
