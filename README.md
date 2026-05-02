@@ -23,4 +23,5 @@ If you are developing a production application, we recommend using TypeScript wi
 ## 📸 Screenshots
 
 ### Desktop
-![Desktop](/Users/aj/Desktop/Desktop - Abhineet’s MacBook Air/untitled folder/logging_middleware/logging_middleware/src/screenshot/Screenshot 2026-05-02 at 11.36.41 AM.png)
+
+<img width="1461" height="888" alt="Screenshot 2026-05-02 at 11 36 41 AM" src="https://github.com/user-attachments/assets/8b15dfda-d813-405f-83d2-4ba79f2d233f" />
